@@ -1,12 +1,12 @@
 # database словарь в словаре
 
-print('add your name and tree thing that you take on uninhabited island')
+print('Add your name and three thing that you take on uninhabited island: \n')
 
-database1 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:')}}
+person1 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:\n')}}
+person2 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:\n')}}
+person3 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:\n')}}
 
-database2 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:')}}
-database3 = {input('name:'):  {'thing1 ':  input('1thing:'), 'thing2 ':  input('2thing:'),  'thing3 ':  input('3thing:')}}
 
-print(database1)
-print(database2)
-print(database3)
+print(person1)
+print(person2)
+print(person3)
